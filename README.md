@@ -22,7 +22,7 @@ This project leverages the IMDb dataset for sentiment classification using a pre
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/imdb-sentiment-classifier.git
+git clone https://github.com/mahirbarot/imdb-sentiment-classifier.git
 cd imdb-sentiment-classifier
 ```
 
@@ -96,4 +96,4 @@ To train the model on your own, modify the sample size and batch size as needed 
 This project is licensed under the MIT License.
 ```
 
-This `README.md` provides a clear and professional explanation of the project, its setup, and usage. Be sure to customize the `git clone` link with your actual GitHub repository URL!
+
