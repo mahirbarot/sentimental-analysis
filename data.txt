@@ -1,2 +1,1 @@
-hello my first file ! 
-this is second line 
+hi i am line1
